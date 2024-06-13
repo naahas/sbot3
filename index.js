@@ -8,6 +8,7 @@ const client = new Client({
 
 const token = process.env.TOKEN3
 
+
 client.on('ready', () => {
     console.log(`${client.user.username} is running.`);
     launch()
@@ -93,7 +94,7 @@ function summonTask(auth , auth2 , roll) {
             if(val == roll) {
                 clearInterval(summon)
                 setTimeout(() => {
-                    if(auth != 1 && claimed != true) checkReset(roll)
+                    if(auth != 1 && claimed != true) checkReset()
                 }, 2000);
                 
             }
@@ -161,7 +162,7 @@ function checkRT(left) {
     }, 3500);
 }
 
-function checkReset(roll) {
+function checkReset() {
     const channel = client.channels.cache.get('785917648693100605');    
     channel.send('$mu')
 
@@ -181,7 +182,7 @@ function checkReset(roll) {
                     channel.messages.fetch({ limit: 1 }).then(messages => {
                         const last = messages.first();
                         if(last.reactions.cache.size > 0) {
-                            summonTask(1 , 0 , roll)
+                            summonTask(1 , 0 , 10)
                         }
                     }).catch(console.error);
                   }, 1500);
