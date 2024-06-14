@@ -25,7 +25,7 @@ function launch() {
     }, 2000);
    
     setTimeout(() => {
-        summonTask(0 , 0 , 10)
+        summonTask(0 , 0 , 16)
     }, 1000);
    
 
@@ -35,7 +35,7 @@ function launch() {
 
 
     setInterval(() => {
-        summonTask(0 , 0 , 10)
+        summonTask(0 , 0 , 16)
     }, 3600000);
 
 
