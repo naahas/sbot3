@@ -1,6 +1,5 @@
 Megumin
 Mai Sakurajima
-Hatsune Miku
 May
 Albedo
 Arthur Leywin
@@ -11,8 +10,6 @@ Yumeko Jabami
 Chika Fujiwara
 Marin Kitagawa
 Kurumi Tokisaki
-Yor Forger
-Levi
 Happy
 Zeref
 Erza Scarlet
@@ -22,12 +19,9 @@ Sinon
 Rikka Takanashi
 Kanna Kamui
 Kurisu Makise
-Yuuji Itadori
 Nyan Cat
 Ryuuko Matoi
 Yotsuba Nakano
-Reze
-Chizuru Ichinose
 Juvia Lockser
 Mirko
 Denji
@@ -43,63 +37,68 @@ Shouko Nishimiya
 Grimmjow Jaegerjaquez
 Usagi Tsukino
 Feitan Portor
-Tsuyu Asui
 Katsuki Bakugou
-Tsuyu Asui
 Sasha Braus
 Adam
-Yuno Gasai
 Venom
 Gogeta
 Kaori Miyazono
-Giyuu Tomioka
 Son Gohan
-Frieza
+Douma
 Bardock
-Suguru Getou
 Chi-Chi
-Piccolo
-Krillin
-Sakura Matou
-Himeno
-Son Goku
 Alice Nakiri
 Mary Saotome
 Yui Yuigahama
 Aiz Wallenstein
 Eijirou Kirishima
-Minato Namikaze
-Bon Clay
 Vinsmoke Reiju
 Monkey D. Garp
 Rock Lee
+Ulquiorra Cifer
 Shizuku Murasaki
 Koro-sensei
-Escanor
 All Might
+Tobirama Senju
+Inugami Korone
+Hoshimachi Suisei
+Houshou Marine
+Ichigo
 Yato
 Meliodas
 Gray Fullbuster
 Anna Yamada
 Rimuru Tempest
 Death the Kid
-Akane Kurokawa
 Amelia Watson
+Retsu Unohana
 Batman (Bruce Wayne)
 Manjirou Sano
 Silva Zoldyck
 Denki Kaminari
+Mewtwo
+Mew
+Eevee
+Arceus
 Asia Argento
-Lady Nagant
-Alucard
 Mirio Togata
+Shunsui Kyoraku
 Yuki Tsukumo
 Tetsurou Kuroo
 Karma Akabane
+Yami Bakura
 Brook
+Giratina
+Renji Abarai
+Iggy
+Joey Wheeler
+Carnage
+Seto Kaiba
 Machi Komachine
 Tooru Hagakure
+Jugram Haschwalth
 Koutarou Bokuto
+Aki Izayoi
 Nero Claudius
 Rin Okumura
 Genos
@@ -107,39 +106,41 @@ Caster
 Kallen Stadtfeld
 Jiraiya
 Shisui Uchiha
-Illumi Zoldyck
 Isaac Netero
-Nanachi
 Alluka Zoldyck
 Hashirama Senju
 Winry Rockbell
+Kenpachi Zaraki
 Kasumi Miwa
 Tsukasa Yugi
 Harley Quinn (Harleen Quinzel)
 Mewtwo
-Cloud Strife
 Tooru Oikawa
 Rider
 Temari
-Sabo
 Ikumi Mito
 Silvers Rayleigh
 Whitebeard
 Monkey D. Dragon
 Aokiji
-Enel
 Blackbeard
+Charmander
+Yuuichi Katagiri
+Ash Ketchum
 Sylphiette
+N
+Red
 Roy Mustang
+Tatsumi Oga
 Pochita
 Chisato Nishikigi
 Joseph Joestar
+Misty
 Bruno Bucciarati
 Spike Spiegel
 Yasuho Hirose
 Risotto Nero
 Vinegar Doppio
-Marnie
 Kiyoko Shimizu
 Funny Valentine
 Weather Report
@@ -150,14 +151,12 @@ Shirahoshi
 Donquixote Doflamingo
 Kushina Uzumaki
 Riza Hawkeye
+Mayuri Shiina
 Mei Misaki
-Illyasviel von Einzbern
 Josuke Higashikata
 Mirajane Strauss
 Shanks
-Sebastian Michaelis
 Shigeo Kageyama
-Asta
 Kenma Kozume
 Toge Inumaki
 Faye Valentine
@@ -166,9 +165,6 @@ Mt. Lady
 Inosuke Hashibira
 Diane
 Usopp
-Chousou
-Trafalgar Law
 Jibril
 Bulma
 Elizabeth Liones
-Eris Boreas Greyrat
