@@ -1,7 +1,6 @@
 Megumin
 Mai Sakurajima
 May
-Albedo
 Arthur Leywin
 Ryuk
 Donquixote Rosinante
@@ -12,19 +11,16 @@ Zeref
 Rei Ayanami
 Rikka Takanashi
 Kanna Kamui
-Nyan Cat
 Ryuuko Matoi
 Yotsuba Nakano
 Juvia Lockser
 Mirko
-Denji
 Laxus Dreyar
 Artoria Pendragon (Alter)
 Touka Kirishima
 Senkuu Ishigami
 Jellal Fernandes
 Yuu Nishinoya
-Shouko Nishimiya
 Grimmjow Jaegerjaquez
 Usagi Tsukino
 Feitan Portor
@@ -37,7 +33,6 @@ Alice Nakiri
 Mary Saotome
 Yui Yuigahama
 Rock Lee
-Ulquiorra Cifer
 Koro-sensei
 All Might
 Tobirama Senju
@@ -53,10 +48,8 @@ Death the Kid
 Amelia Watson
 Retsu Unohana
 Yujiro Hanma
-Batman (Bruce Wayne)
 Ada Wong
 Jill Valentine
-Manjirou Sano
 Silva Zoldyck
 Mewtwo
 Shinichi Izumi
@@ -81,40 +74,29 @@ Koutarou Bokuto
 Alexis Rhodes
 Big Mom
 Nero Claudius
-Broly (DBZ)
 Rin Okumura
 Genos
-Kallen Stadtfeld
 Kinji Hakari
 Jiraiya
 Shisui Uchiha
-Alluka Zoldyck
-Hashirama Senju
-Winry Rockbell
 Kenpachi Zaraki
 Kasumi Miwa
 Tsukasa Yugi
 Harley Quinn (Harleen Quinzel)
 Mewtwo
-Tooru Oikawa
-Carrot
 Temari
 Ikumi Mito
 Whitebeard
 Aokiji
-Aquarius
 Rider
 Blackbeard
 Charmander
-Yuuichi Katagiri
 Ash Ketchum
 Sylphiette
 Red
 Tatsumi Oga
 Chisato Nishikigi
-Bruno Bucciarati
 Spike Spiegel
-Yasuho Hirose
 Risotto Nero
 Vinegar Doppio
 Kiyoko Shimizu
@@ -130,13 +112,10 @@ Riza Hawkeye
 Mayuri Shiina
 Mei Misaki
 Josuke Higashikata
-Mirajane Strauss
 Shanks
 Toge Inumaki
 Faye Valentine
-Akaza
 Mt. Lady
-Inosuke Hashibira
 Diane
 Usopp
 Jibril
